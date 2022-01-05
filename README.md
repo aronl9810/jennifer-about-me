@@ -1,6 +1,8 @@
-# about-me
+# About-me
 ## Jennifer Li 
-### [High School of Telecommunications Arts & Tech.](https://www.hstat.org/) - Student - Expected graduation: 2024
+### [High School of Telecommunications Arts & Tech.](https://www.hstat.org/) 
+### Occupation: Student 
+### Expected graduation: 2024
 
 **Contact me: jenniferl1981@hstat.org**
 
